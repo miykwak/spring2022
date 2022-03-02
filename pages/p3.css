@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.Centered {position: absolute;
+  top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+  color:mintcream;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; font-size: 100px}
+
+
+.middle{ position: absolute;
+	top: 60%; 
+	left: 32.58%; 
+	transform: translate(-50%, -50%);
+	font-size: 50px; 
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color:mintcream}
+a:hover {color: plum}
+
+.middleone { position: absolute;
+	top: 60%; 
+	left: 49%; 
+	transform: translate(-50%, -50%);
+	font-size: 50px; 
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color:mintcream}
+a:hover {color: plum}
+
+.middletwo { position: absolute;
+	top:60%; 
+	left: 65%; 
+	transform: translate(-50%, -50%);
+	font-size: 50px; 
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color:mintcream}
+a:hover {color: plum}

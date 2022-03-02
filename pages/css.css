@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("meditation.gif");
+
+height: 100%; background-position: center; background-repeat: repeat; background-size: cover}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+	color: mintcream; font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';font-size:45px}
+
+a {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; color:fuchsia}
